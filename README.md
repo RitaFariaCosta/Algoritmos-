@@ -1,2 +1,2 @@
 # Algoritmos I
-Repositório da disciplina de C02 - Algoritmos e Estruturas de Dados |
+Repositório da disciplina de C02 - Algoritmos e Estruturas de Dados I
